@@ -1,0 +1,5 @@
+# Copia este archivo como db.properties y escribe tu clave real.
+# db.properties.example SÍ se sube a Git; db.properties NO.
+db.url=jdbc:mysql://localhost:3306/gymfit?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=America/Lima
+db.user=app_gymfit
+db.password=ESCRIBE_AQUI_LA_CLAVE

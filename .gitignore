@@ -1,0 +1,10 @@
+# Compilados de Maven
+target/
+
+# Credenciales: NUNCA se suben a GitHub (se sube db.properties.example)
+src/main/resources/db.properties
+
+# Archivos personales de NetBeans
+nbproject/private/
+nb-configuration.xml
+nbactions.xml
